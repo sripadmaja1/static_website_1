@@ -1,0 +1,46 @@
+/* Reset some default styles */
+body, h1, h2, p, ul, li, form {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style common header and footer */
+header, footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Style container for page content */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Define specific styles for each page */
+/* Homepage */
+.homepage {
+    /* Add specific styles for the homepage */
+}
+
+/* About Us */
+.about {
+    /* Add specific styles for the about us page */
+}
+
+/* Contact Us */
+.contact {
+    /* Add specific styles for the contact page */
+}
+
+/* Portfolio */
+.portfolio {
+    /* Add specific styles for the portfolio page */
+}
+
+/* Features */
+.features {
+    /* Add specific styles for the features page */
+}
